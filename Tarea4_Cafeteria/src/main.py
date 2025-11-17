@@ -1,7 +1,7 @@
-from Tarea4_Cafeteria.src.sistema_cafeteria import SistemaCafeteria
-from Tarea4_Cafeteria.src.observer import Cliente
-from Tarea4_Cafeteria.src.productos import Cafe, TeVerde, Croissant
-from Tarea4_Cafeteria.src.decoradores import Leche, Canela, Crema, RellenoChocolate, DobleEspresso
+from sistema_cafeteria import SistemaCafeteria
+from observer import Cliente
+from productos import Cafe, TeVerde, Croissant
+from decoradores import Leche, Canela, Crema, RellenoChocolate, DobleEspresso
 
 
 def main():

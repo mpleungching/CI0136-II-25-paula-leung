@@ -1,5 +1,5 @@
 from abc import ABC
-from Tarea4_Cafeteria.src.productos import ProductoBase
+from productos import ProductoBase
 
 
 # DECORADOR BASE

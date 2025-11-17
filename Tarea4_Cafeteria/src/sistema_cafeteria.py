@@ -1,4 +1,4 @@
-from Tarea4_Cafeteria.src.observer import Sujeto
+from observer import Sujeto
 
 
 class SistemaCafeteria:
